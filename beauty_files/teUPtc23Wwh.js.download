@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("XChatPluginNotificationMessagesManageController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/plugins/customer_chat/notification_messages_manage/",{token_ent_id:{type:"String",required:!0},user_action:{type:"Int",required:!0}})}),null);

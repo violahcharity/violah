@@ -1,0 +1,125 @@
+body{
+    background-color: white;
+}
+body{
+    background-color: ghostwhite;
+}
+li{
+    display: inline;
+    color: indigo;
+    padding: 10px;
+}
+ul{
+    background-color: black;
+    padding: 15px 20px;
+}
+li a{
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: indigo;
+    padding:15px;
+}
+h1{
+    text-align: center;
+    color:black;
+}
+.deals{
+    float:left;
+    background-color:#EEEEEE;
+    height:350px;
+    width:100%;
+    margin-top: 30px;
+
+}
+.shop{
+    float:left;
+    margin-left: 200px;
+    height:250px;
+    width:250px;
+}
+img{
+    height:250px;
+    width:200px;
+    margin-top: 30px;
+}
+.dine{
+    float:left;
+    margin-left: 100px;
+    height:250px;
+    width:250px;
+}
+.fun{
+    float:left;
+    margin-left: 50px;
+    height:250px;
+    width:250px;
+}
+.holdcontent{
+    float:left;
+    background-color:#EEEEEE;
+    height:300px;
+    width:100%;
+
+
+}
+.deals2{
+    float:left;
+    background-color:white;
+    height:350px;
+    width:100%;
+
+
+}
+.beauty{
+    float:left;
+    margin-left: 200px;
+    height:250px;
+    width:250px;
+}
+img{
+    height:250px;
+    width:200px;
+    margin-top: 30px;
+}
+.spa{
+    float:left;
+    margin-left: 100px;
+    height:250px;
+    width:250px;
+}
+.jewel{
+    float:left;
+    margin-left: 70px;
+    height:250px;
+    width:250px;
+}
+
+h1{
+    text-align: center;
+    color:black;
+}
+.head{
+    margin:0 auto;
+}
+h2{
+    text-align: center;
+    color:black;
+}
+.brands{
+    float:left;
+    background-color:#FFF1F1;
+    height:150px;
+    width:100%;
+    margin-top: 30px;
+}
+footer{
+    background-color:black;
+}
+.checked {
+    color: orange;
+}
+
+

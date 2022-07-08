@@ -1,0 +1,11 @@
+body{
+    background-color:#CFDAC8;
+}
+.well{
+    background-color:#E8EAE6;
+
+}
+tr{
+    border-bottom: 1px solid #41464b;
+}
+tr:hover {background-color:#D3CEDF;}
